@@ -1,5 +1,5 @@
 # File description: This python script Listout EBS volume which are attached to EC2 whose state is stooped. And it will create CSV file and uploaded to S3 bucket.
-# Author: harsh.viradia@intuitive.cloud, dhruvesh.sheladiya@intuitive.cloud and jay.sheth@intuitive.cloud
+# Author: dhruvesh.sheladiya@intuitive.cloud
 # Date: 26/05/23
 # Version: 2023.00.01
 # Dependencies: csv, boto3
