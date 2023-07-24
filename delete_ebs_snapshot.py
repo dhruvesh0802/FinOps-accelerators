@@ -1,5 +1,5 @@
 # File description: This python script will delete the EBS snapshots which are present in CSV file, you will need to provide the IDs of snapshot in CSV file. This CSV file is uploded on S3 bucket
-# Author: harsh.viradia@intuitive.cloud, dhruvesh.sheladiya@intuitive.cloud and jay.sheth@intuitive.cloud
+# Author: dhruvesh.sheladiya@intuitive.cloud
 # Date: 26/05/23
 # Version: 2023.00.01
 # Dependencies: csv, boto3
