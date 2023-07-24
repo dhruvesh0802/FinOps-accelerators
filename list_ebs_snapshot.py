@@ -1,5 +1,5 @@
 # File description: This python script will list the EBS snapshots which are "x" days older and store it in csv file that will be uploded to S3 bucket
-# Author: harsh.viradia@intuitive.cloud, dhruvesh.sheladiya@intuitive.cloud and jay.sheth@intuitive.cloud
+# Author: dhruvesh.sheladiya@intuitive.cloud
 # Date: 26/05/23
 # Version: 2023.00.01
 # Dependencies: csv, boto3, datetime
